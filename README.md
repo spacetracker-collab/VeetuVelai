@@ -27,7 +27,12 @@ CTO of the Worlds largest Data communication and routing firm had discovered Pre
 
 **Technologies**
 
-The technologies used were Apple HomeKit and Philips Hue. A bill of material with more than 200 items including [Ecobee](https://www.ecobee.com/en-us/) was drawn up by me with a budget of a quarter million dollars. The customer experience center offered to give space. There was heavy investment to create a wow effect in the annual CES in 2015. A microsite was built with all the hardware as prototypes and lots of use cases. Home Assetz is about the lifecycle of the asset. Home Warranty is about cyber warranty, which was an upcoming space along with usage based insurance in those days.
+The technologies used were Apple HomeKit and Philips Hue. A bill of material with more than 200 items including [Ecobee](https://www.ecobee.com/en-us/) was drawn up by me with a budget of a quarter million dollars. The customer experience center offered to give space. There was heavy investment to create a wow effect in the annual CES in 2015. A microsite was built with all the hardware as prototypes and lots of use cases. Home Assetz is about the lifecycle of the asset. Home Warranty is about cyber warranty, which was an upcoming space along with usage based insurance in those days. Cyber Warranty still seems to be topical as [Schneier](https://www.schneier.com/blog/archives/2020/03/on_cyber_warran.html) is still talking about me.
+
+
+**Full Disclosure**
+
+I am a member of the [Electronic Frontier Foundation](https://www.eff.org/). I believe in "Free as in Speech, not Free as in Beer".
 
 **Feedback and Complaints**
 
