@@ -1,5 +1,12 @@
 # VeetuVelai
 
+**What does VeetuVelai mean**
+
+Veetu -> Home
+Velai -> Work
+
+It means HomeWork in Tamil.
+
 **Origin**
 
 These were product ideas that were developed by me in association with High Tech Group of a major firm.
