@@ -26,6 +26,9 @@ I was called to explain the reason why I chose to take  these diagrams out of th
 
 Further, the firms IP still has a mobile value added service product we developed called "Subscription Engine" on its intranet, 6 years after we moved out. I never built or have any plans to build a subscription engine. That was purely a client sponsorship.
 
+
+Also, note, I spent 3 months converting a ton of PowerPoints manually to Visio using a Japanese Plugin at a services firm. So your target should be Visio (I am an architect) and not a PowerPoint.
+
 **Technologies**
 
 The technologies used were Apple HomeKit and Philips Hue. A bill of material with more than 200 items including [Ecobee](https://www.ecobee.com/en-us/) was drawn up by me with a budget of a quarter million dollars. The customer experience center offered to give space. There was heavy investment to create a wow effect in the annual CES in 2015. A microsite was built with all the hardware as prototypes and lots of use cases. Home Assetz is about the lifecycle of the asset. Home Warranty is about cyber warranty, which was an upcoming space along with usage based insurance in those days. Cyber Warranty still seems to be topical as [Schneier](https://www.schneier.com/blog/archives/2020/03/on_cyber_warran.html) is still talking about me.
