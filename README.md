@@ -11,6 +11,15 @@ It means HomeWork in Tamil.
 
 These were product ideas that were developed by me in association with High Tech Group of a major firm.
 
+[Home Assetz](
+https://github.com/spacetracker-collab/VeetuVelai/blob/main/Home%20Assetz%201.0.png)
+
+[Home Warranty](https://github.com/spacetracker-collab/VeetuVelai/blob/main/Home%20Warranty%201.0.png)
+
+
+
+
+
 **Why is this Public - The controversy**
 
 I was called to explain the reason why I chose to take  these diagrams out of the firm. The answer was : The company provided no drawing and design software except PowerPoint which greatly stymied my design instincts under a demanding management. This was before draw.io. Further, I had exhausted the quota for Gliffy and Lucid Chart. At that time, the 
