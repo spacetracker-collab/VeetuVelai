@@ -2,8 +2,8 @@
 
 **What does VeetuVelai mean**
 
-#Veetu -> Home
-#Velai -> Work
+*Veetu -> Home
+*Velai -> Work
 
 It means HomeWork in Tamil.
 
